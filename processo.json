@@ -5,8 +5,8 @@
     "data": "12/01/2024",
     "documentos": [
       { "nome": "Edital", "link": "https://drive.google.com/file/d/1fhUiYU1EUPgxgovYgMdN6KDcIrvyt2Qw/view" },
-      { "nome": "Proposta", "link": "https://saobentodouna.pe.leg.br/docs/processo01/proposta.pdf" },
-      { "nome": "Contrato", "link": "https://saobentodouna.pe.leg.br/docs/processo01/contrato.pdf" }
+      { "nome": "Proposta", "link": "https://drive.google.com/file/d/1fhUiYU1EUPgxgovYgMdN6KDcIrvyt2Qw/preview" },
+      { "nome": "Contrato", "link": "https://drive.google.com/file/d/1Kni8GXtjON-962JKaUgj-GGSbygplgqV/preview" }
     ]
   },
   {
@@ -14,9 +14,9 @@
     "descricao": "Contratação de serviços",
     "data": "15/02/2024",
     "documentos": [
-      { "nome": "Edital", "link": "https://saobentodouna.pe.leg.br/docs/processo02/edital.pdf" },
-      { "nome": "Proposta", "link": "https://saobentodouna.pe.leg.br/docs/processo02/proposta.pdf" },
-      { "nome": "Contrato", "link": "https://saobentodouna.pe.leg.br/docs/processo02/contrato.pdf" }
+      { "nome": "Edital", "link": "https://drive.google.com/file/d/1J8bFzbAfOEp4G25BVoGZhRvSrfRVfGfx/view" },
+      { "nome": "Proposta", "link": "https://drive.google.com/file/d/1J8bFzbAfOEp4G25BVoGZhRvSrfRVfGfx/preview" },
+      { "nome": "Contrato", "link": "https://drive.google.com/file/d/1H7qAl1lF28_QeJWPxearmywMKzn7LayU/view" }
     ]
   }
 ]
